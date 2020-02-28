@@ -1,0 +1,3 @@
+.idea   //webstorm的默认配置文件
+node_modules
+.DS_Store  //moc电脑默认的
